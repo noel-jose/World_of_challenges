@@ -1,0 +1,4 @@
+Read a number and a power
+Read another number and its power
+now compare the values and print the largest of the both values
+
